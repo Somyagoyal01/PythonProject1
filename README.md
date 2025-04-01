@@ -23,4 +23,22 @@ This Python program performs basic mathematical operations on two user-input num
 ## Usage
 Run the Python script, enter two numbers when prompted, and the program will display the results of all basic operations.
 
+# Personalized Greeting Program
+
+## Functionality
+This Python program generates a personalized greeting message by following these steps:
+
+1. Prompts the user to enter their **first name** and **last name**.
+2. Concatenates both inputs to form a **full name**.
+3. Prints a greeting message using the full name.
+
+## Expected Behavior
+- If the user enters `John` as the first name and `Doe` as the last name, the output will be:
+  ```
+  Hey! John Doe, Welcome to Python programming
+  ```
+
+## Usage
+Run the Python script, enter your first and last name when prompted, and receive a personalized greeting message.
+
 
